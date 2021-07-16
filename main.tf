@@ -69,7 +69,7 @@ data "spotify_search_track" "deal_casino" {
 data "spotify_search_track" "mutual_benefit" {
   artists = ["Mutual Benefit"]
   name    = "Terraform"
-  album = "The Space Project"
+  album   = "The Space Project"
 }
 
 data "spotify_search_track" "thank_you_scientist" {
@@ -79,21 +79,21 @@ data "spotify_search_track" "thank_you_scientist" {
 }
 
 data "spotify_search_track" "wide_eyes" {
-    artists = ["Wide Eyes"]
-    name = "Escape Velocity"
-    album = "Terraforming"
+  artists = ["Wide Eyes"]
+  name    = "Escape Velocity"
+  album   = "Terraforming"
 }
 
 data "spotify_search_track" "propaganda" {
-    artists = ["Propaganda"]
-    name = "We Were Only 10"
-    album = "Terraform: The People"
+  artists = ["Propaganda"]
+  name    = "We Were Only 10"
+  album   = "Terraform: The People"
 }
 
 data "spotify_search_track" "the_reclusive_monk" {
-    artists = ["The Reclusive Monk"]
-    name = "The End"
-    album = "Petrichor: Terraforming Earth"
+  artists = ["The Reclusive Monk"]
+  name    = "The End"
+  album   = "Petrichor: Terraforming Earth"
 }
 
 resource "spotify_playlist" "playlist" {
