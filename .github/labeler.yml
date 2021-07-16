@@ -1,0 +1,7 @@
+dotfiles:
+  - .github/**/*
+  - .github/*
+  - .gitignore
+
+rockin_tunes:
+  - main.tf
