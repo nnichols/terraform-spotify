@@ -34,6 +34,3 @@ terraform.rc
 
 # Docker Environment Variables
 .env
-
-# Terraform Lock Files
-.terraform.lock.hcl
