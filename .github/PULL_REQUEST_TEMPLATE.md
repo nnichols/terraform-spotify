@@ -8,4 +8,3 @@
 
 - [ ] Write + run tests
 - [ ] Update documentation
-- [ ] Update CHANGELOG and increment version
