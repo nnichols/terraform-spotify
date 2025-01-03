@@ -1,6 +1,7 @@
 # Terraform Spotify
 
-An example of Terraform's Spotify provider, from [the Spotify tutorial](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist)
+An example of Terraform's Spotify provider, from [the Spotify tutorial.](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist)
+This repository was made as part of a promotional contest, which has since ended- therefore, this code is archived.
 
 ## Listen
 
